@@ -1,2 +1,3 @@
 # HelloWorld
 Cranking up the perks
+Day 1 starting the journey of endless programming, can't seem to see an end, hope I can make it out alive...
